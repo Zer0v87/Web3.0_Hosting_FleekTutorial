@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "MR_Protocol"
+title = "Test"
 theme = "timeline"
 relativeURLS=true
 
